@@ -1,37 +1,25 @@
-## Test
+## Petar Maksimović
 
-You can use the [editor on GitHub](https://github.com/PetarMax/petarmax.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Biography blurb.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact
 
-### Markdown
+Some forms of contact.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Recent Relevant Publications
 
-```markdown
-Syntax highlighted code block
+1. J. Fragoso Santos, **P. Maksimović**, S.-É. Ayoun, P. Gardner. _Gillian, Part I: A Multi-language Platform for Symbolic Execution_. PLDI'20: 41st ACM SIGPLAN International Conference on Programming Language Design and Implementation, 2020.
 
-# Header 1
-## Header 2
-### Header 3
+2. G. Sampaio, J. Fragoso Santos, **P. Maksimović**, P. Gardner. _A Trusted Infrastructure for Symbolic Analysis of Event-Driven Web Applications_. ECOOP'20: 34th European Conference on Object-Oriented Programming, 2020.
 
-- Bulleted
-- List
+3. C. Watt, **P. Maksimović**, N. R. Krishnaswami, P. Gardner. _A Program Logic for First-Order Encapsulated WebAssembly_. ECOOP'19: 33rd European Conference on Object-Oriented Programming, 2019.
 
-1. Numbered
-2. List
+4. J. Fragoso Santos, **P. Maksimović**, G. Sampaio, Philippa Gardner. JaVerT 2.0: Compositional Symbolic Execution for JavaScript. POPL'19: 46th ACM SIGPLAN Symposium on Principles of Programming Languages, 2019.
 
-**Bold** and _Italic_ and `Code` text
+5. J. Fragoso Santos, **P. Maksimović**, T. Grohens, J. Dolby, P. Gardner. _Symbolic Execution for JavaScript_. PPDP'18: Proceedings of the 20th International Symposium on Principles and Practice of Declarative Programming, 2018.
 
-[Link](url) and ![Image](src)
-```
+6. J. Fragoso Santos, **P. Maksimović**, D. Naudžiūnienė, T. Wood, P. Gardner. _JaVerT: JavaScript Verification Toolchain_. POPL'18: 45th ACM SIGPLAN Symposium on Principles of Programming Languages, 2018.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+7. J. Fragoso Santos, P. Gardner, **P. Maksimović**, D. Naudžiūnienė. _Towards Logic-based Verification of JavaScript Programs_. CADE'17: 26th Conference on Automated Deduction, 2017.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PetarMax/petarmax.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A complete list of my publications can be found [here](https://dblp.org/pid/39/5949.html).
